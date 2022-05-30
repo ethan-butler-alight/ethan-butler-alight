@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on my personal portfolio
 
 
-[![Ethan's GitHub stats](https://github-readme-stats-five-tau-93.vercel.app//api?username=ethanbtlr)](https://github.com/ethanbtlr/github-readme-stats)
+[![Ethan's GitHub stats](https://github-readme-stats-five-tau-93.vercel.app/api?username=ethanbtlr)](https://github.com/ethanbtlr/github-readme-stats)
+[![Top Langs](https://github-readme-stats-five-tau-93.vercel.app/api/top-langs/?username=ethanbtlr)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
