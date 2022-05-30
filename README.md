@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on my personal portfolio
 
 
+[![Ethan's GitHub stats](https://github-readme-stats-five-tau-93.vercel.app//api?username=ethanbtlr)](https://github.com/ethanbtlr/github-readme-stats)
+
 
 <!--
 **ethanbtlr/ethanbtlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
