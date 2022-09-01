@@ -1,6 +1,6 @@
 ### Hi there, I'm Ethan, a Computer Science student👋
 
-- 🔭 I’m currently working on my personal portfolio
+- 🔭 I’m currently working on my personal website.
 
 
 [![Ethan's GitHub stats](https://github-readme-stats-five-tau-93.vercel.app/api?username=ethanbtlr&theme=synthwave&show_icons=true&count_private=true)](https://github.com/ethanbtlr/github-readme-stats)
